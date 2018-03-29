@@ -1,0 +1,14 @@
+{
+    "name": "dhz-sideutil",
+    "version": "1.0.0",
+    "description": "移动端轮播",
+    "main": "index.js",
+    "scripts": {
+        "test": "test"
+    },
+    "keywords": [
+        "DhzSideUtil"
+    ],
+    "author": "dhz",
+    "license": "ISC"
+}
