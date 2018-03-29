@@ -10,5 +10,13 @@
         "DhzSideUtil"
     ],
     "author": "dhz",
-    "license": "ISC"
+    "license": "ISC",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/159965658/side.git"
+    },
+    "bugs": {
+        "url": "https://github.com/159965658/side/issues"
+    },
+    "homepage": "https://github.com/159965658/side#readme"
 }
