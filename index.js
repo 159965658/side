@@ -7,3 +7,5 @@ export default class sideIndex {
         console.log('移动端轮播图1')
     }
 }
+
+module.export = sideIndex;
